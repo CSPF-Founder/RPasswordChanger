@@ -21,7 +21,9 @@ Using Rpasswordchanger:
 =========================
 Get Computers List Tab:
 --------------------------
+
 Two ways to load computers list:
+--------------------------
 * You can load from computer list from a text file(separated by new line).:
 * Click “Browse” button to select the file.
 * Once the list is loaded, it will take you to the “Change Password” tab.
@@ -29,7 +31,10 @@ Two ways to load computers list:
 * Enter Domain Name, AD Server IP address and Credentials.
 * Click “Get Computer List”
 * Once it retrieved the computer list from AD, it will take you to the “Change
-Password” tab.Change Password Tab:
+Password” tab.
+
+Change Password Tab:
+--------------------------
 With AD username and password, you can change the local administrator accounts.
 * Choose the computers which you want to change the password.
 * If you want to choose all the computers from the list, click the checkbox on the top.
@@ -39,7 +44,9 @@ local admin accounts of the desktop machines connected to the AD.
 * Click Change Password Button
 * Once password changing process is completed, you can see the new password list in
 "View Passwords" tab
+
 Other Functions:
+--------------------------
 * You can export the passwords list to a CSV file by Right clicking on the "View Passwords"
 tab
 * In “Change Password Tab”: You can enable or disable computers from the list - These
