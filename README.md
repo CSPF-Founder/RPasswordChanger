@@ -24,10 +24,10 @@ Get Computers List Tab:
 
 Two ways to load computers list:
 --------------------------
-* You can load from computer list from a text file(separated by new line).:
+* You can load from computer list from a text file(separated by new line).
 * Click “Browse” button to select the file.
 * Once the list is loaded, it will take you to the “Change Password” tab.
-* Retrieve from Active Directory(AD):
+* Retrieve from Active Directory(AD)
 * Enter Domain Name, AD Server IP address and Credentials.
 * Click “Get Computer List”
 * Once it retrieved the computer list from AD, it will take you to the “Change
@@ -39,15 +39,15 @@ With AD username and password, you can change the local administrator accounts.
 * Choose the computers which you want to change the password.
 * If you want to choose all the computers from the list, click the checkbox on the top.
 * Enter AD Credentials and Domain Name(on the right side) and click the "Set" Button
-* Select whether you want to change the Default admin account("Administrator") or all
+* Select whether you want to change the default admin account("Administrator") or all
 local admin accounts of the desktop machines connected to the AD.
-* Click Change Password Button
+* Click Change Password button
 * Once password changing process is completed, you can see the new password list in
 "View Passwords" tab
 
 Other Functions:
 --------------------------
-* You can export the passwords list to a CSV file by Right clicking on the "View Passwords"
+* You can export the passwords list to a CSV file by right clicking on the "View Passwords"
 tab
 * In “Change Password Tab”: You can enable or disable computers from the list - These
 computers will be ignored when doing password change.
